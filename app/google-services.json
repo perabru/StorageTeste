@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110967042959",
+    "project_id": "autenticacao0706",
+    "storage_bucket": "autenticacao0706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110967042959:android:2abd986000516ef83e91fa",
+        "android_client_info": {
+          "package_name": "com.example.autenticacao0706"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeCk7xXlY6Se6tntxhe9giVNslvvSUev8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110967042959:android:d7b93acf851135463e91fa",
+        "android_client_info": {
+          "package_name": "com.example.storageteste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeCk7xXlY6Se6tntxhe9giVNslvvSUev8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
