@@ -29,7 +29,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        // Inicialize o Firebase Storage
+        storage = Firebase.storage
 
         selectImageButton = findViewById(R.id.select_image_button)
         uploadImageButton = findViewById(R.id.upload_image_button)
